@@ -148,7 +148,7 @@ public class doubleQueueStack
 		q.push("hllo");
 		q.push("goodbye");
 		q.push("jigi");
-		q.push("ass");
+		q.push("grass");
 		q.push("parag");
 		q.push("bmw");
 		
