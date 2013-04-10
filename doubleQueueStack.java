@@ -1,5 +1,4 @@
 
-
 public class doubleQueueStack
 { 
 	Queue front;
@@ -171,10 +170,7 @@ public class doubleQueueStack
 		q.printCount();
 		q.pop();
 		q.pop();
-		q.printCount();
-
-
-	
+		q.printCount();	
 
 	}
 
