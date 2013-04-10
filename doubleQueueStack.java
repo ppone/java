@@ -1,3 +1,5 @@
+/* Author: Parag Patel
+*/
 
 public class doubleQueueStack
 { 
